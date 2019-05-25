@@ -1,0 +1,75 @@
+html{
+	background-color:  #ccf2ff;
+}
+body{
+	font-family: sans-serif;
+}
+#menu_kiri {
+	background-color: #ff9300;
+	float: left;
+	margin-right: 10px;
+	padding-bottom: 80px;
+	border-radius: 20px;
+}
+
+#menu_atas {
+	background-color: #00e600;
+	border-radius: 20px;
+}
+
+.biar_kiri{
+	float: left;
+	margin-right: 10px; 
+}
+
+.kotak_area{
+	box-sizing: border-box;
+	padding: 10px;
+	font-family: cursive;
+	border-radius: 10px;
+}
+
+.coba_aja{
+	box-sizing: border-box;
+	padding: 5px;
+	font-family: cursive;
+	border-radius: 10px;
+}
+
+.finishing{
+	box-sizing: border-box;
+	padding: 5px;
+	font-family: arial;
+	border-radius: 10px;
+	color: red;
+	font-size: 15px;
+	border: 3px solid ;
+	display: inline-block;
+	background:  #ffff80;
+	margin: 10px auto;
+	text-decoration: none;
+	text-align: center;
+	width: 110px;
+	line-height: 20px;
+}
+
+.finishing:hover{
+	background-color:  #79ff4d;
+}
+
+
+
+.menu:hover{
+	border: 3px;
+	border-radius: 10px;
+	color:  red;
+	text-align: center;
+	width: 110px;
+	background-color: white;
+	
+}
+
+
+h4{
+	color: red;
+}
